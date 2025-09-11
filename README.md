@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.pathe-thuis.nl/over-pathe-thuis
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Over Pathé Thuis 
   <img src="readme-images/eerstepagina.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Pathé Thuis Home 
   <img src="readme-images/tweedepagina.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>

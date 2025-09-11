@@ -23,9 +23,82 @@
 
 
 
+
+
 /****************/
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
 
+body {
+	margin: 0;
+	box-sizing: border-box;
+	background-color: #f7f7f7;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	align-items: center;
+	padding: 15px 24px;
+	background-color: #f7f7f7;
+	margin: 0;
+}
+
+header img {
+	width: 69px;
+	vertical-align: bottom;
+	margin-top: 6px;
+}
+
+header button {
+	display: flex;
+	min-width: auto;
+	padding: 10px 20px;
+	border: 2px solid #000;
+	border-radius: 50px;
+	background-color: #f7f7f7;
+	margin-top: 6px;
+	font-weight: 550;
+	  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+main {
+	margin: 0 auto;
+	max-width: 90rem;
+	width: 100%;
+	padding: 0 24px;	
+}
+
+h1 {
+	font-weight: 670;
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 2.25rem;
+	line-height: 1.3333333333;
+	padding-top: 45px;
+}
+
+p {
+	font-size: 14px;
+	font-weight: 550;
+	margin-bottom: 48px;
+    display: block;
+	text-align: center;
+}
+
+button {
+	display: flex;
+	cursor: pointer;
+	padding: 14px 18px;
+	border: 2px solid transparent;
+	border-radius: 50px;
+	background-color: #ffc426;
+	text-decoration: none;
+}

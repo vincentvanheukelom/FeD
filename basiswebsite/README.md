@@ -106,10 +106,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Meer sections gebruiken
+  - ReadMe goed bijhouden
+  - Toegankelijkheidstest doen
 
 </details>
 
@@ -139,10 +138,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Eerst alle html schrijven
+  - Meer nth of type gebruiken ipv classes
+  - Tweede pagina html alvast schrijven
 
 </details>
 

@@ -1,0 +1,40 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--background-color-rgb: 26, 26, 26;
+}
+
+
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+body {
+  margin: 0;
+  background-color: #f7f7f7;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 1.7142857143;
+  color: #222;
+}

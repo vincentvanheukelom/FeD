@@ -56,7 +56,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+
+1. Screenreaders werken niet altijd goed
+Niet alle teksten, knoppen en koppen worden goed voorgelezen door screenreaders. Voor blinde en slechtziende bezoekers is het daardoor lastig om de site te gebruiken.
+
+2. Navigeren met toetsenbord is moeilijk
+Als je alleen het toetsenbord gebruikt, is de focus (het blauwe randje dat laat zien waar je bent) soms niet zichtbaar. Ook gaat de tabvolgorde niet altijd logisch, waardoor mensen snel de weg kwijtraken.
+
+3. Tekst is soms slecht leesbaar
+Op sommige plekken is er te weinig kleurcontrast tussen de tekst en de achtergrond. Daardoor is de tekst voor mensen met minder goed zicht lastig te lezen.
+
+4. Afbeeldingen missen beschrijving
+Veel afbeeldingen hebben geen goede alternatieve tekst. Screenreaders kunnen dan niet uitleggen wat er op de afbeelding staat, waardoor belangrijke informatie verloren gaat.
 
 </details>
 
@@ -106,10 +117,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Meer sections gebruiken
+  - ReadMe goed bijhouden
+  - Toegankelijkheidstest doen
 
 </details>
 
@@ -139,10 +149,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Eerst alle html schrijven
+  - Meer nth of type gebruiken ipv classes
+  - Tweede pagina html alvast schrijven
 
 </details>
 
